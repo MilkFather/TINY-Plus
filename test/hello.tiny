@@ -1,0 +1,5 @@
+/** This is a Hello-world program **/
+INT MAIN main()
+BEGIN
+    WRITE(1, "HelloWorld.txt");
+END
